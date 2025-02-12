@@ -13,7 +13,7 @@ This project consists of a **Client**, **Server**, and a **Preview** folder:
 ## 📸 Project Preview
 Below are some previews of the application:
 
-![Project Preview](preview/chatbox.gif)
+![Project Preview](Preview/chatbox.gif)
 
 ## 🛠 Tech Stack
 
